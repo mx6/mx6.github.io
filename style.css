@@ -20,6 +20,11 @@ nav {
     font-family: 'Staatliches', cursive;
 }
 
+.navbar-brand:hover {
+    text-decoration: none;
+    background-color: hotpink;
+}
+
 .navi-link {
     margin-left: 5px;
     margin-right: 5px;
@@ -30,6 +35,7 @@ nav {
 
 .navi-link:hover {
     text-decoration: none;
+    background-color: hotpink;
     color: black;
 }
 
@@ -57,14 +63,14 @@ nav {
 
 .btn-primary {
     background-color: hotpink;
-    border: 1px solid hotpink;
+    border: none;
     font-family: 'Rokkitt', serif;
     font-size: 18px;
 }
 
 .btn-primary:hover {
-    background-color: #ddd;
-    border: 1px solid hotpink;
+    background-color: #666;
+    border: none;
 }
 
 h1, h2, h3, h4, h5 {
@@ -80,12 +86,14 @@ p, label {
 }
 
 a {
-    color: black;
+    color: snow;
+    background-color: hotpink;
 }
 
 a:hover {
+    background-color: #666;
     text-decoration: none;
-    color: hotpink;
+    color: snow;
 }
 
 .contact-text {
