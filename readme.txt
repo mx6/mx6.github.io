@@ -8,6 +8,10 @@ Eventually I'd like to get the contact form to actually work, but since I really
 
 Let me know if you like it, or if you actually read this readme.txt file.
 
+8 SEP 2020 UPDATE
+
+I updated the ol' porfolio page with an additional page: GitHub Projects.  I added a few examples of projects on the page, and I updated the contact page with a link to my resume.
+
 Peace,
 M
 
