@@ -1,0 +1,43 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body {
+    background-color: #ed145b;
+}
+
+p, span, br {
+    font-size: 5.4vw;
+    color: rgb(176, 31, 76);
+    font-family: 'Fjalla One', sans-serif;
+    /* line-height: 70%; */
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    color: rgb(122, 13, 72);
+    text-decoration: none;
+}
+
+a:hover {
+    /* background-color: #16161d; */
+    color: whitesmoke;
+}
+
+.threed_glasses {
+    width: 10vw;
+    padding-left: 20px;
+}
+
+.text {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.whiteText {
+    color: whitesmoke;
+}
